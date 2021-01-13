@@ -1,4 +1,4 @@
-# Web Map in Python
+# Econmic Crisis Analysis due to Covid-19 Using Python and DataScience
 
 Folium is a Python library for dealing with world maps.
 
